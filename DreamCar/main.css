@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+h1,h2 {
+	font-family: open-sans-condensed;
+	font-style: italic;
+	font-weight: 500;
+	text-align: center;
+	font-size: 36px;
+	color: #CC0000;
+}
+body,td,th {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	color: #0D0D0D;
+}
+body {
+	margin: 0;
+	background-color: #B8B8B8;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	color: #000000;
+	font-size: 1em;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+h1{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 20px;
+	fontsize: 2em;
+	text-align: left;
+	text-transform: uppercase;
+	
+}
