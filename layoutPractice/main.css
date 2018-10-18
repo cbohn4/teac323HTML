@@ -23,3 +23,14 @@ nav ul li a {
 	text-transform: uppercase;
 	padding: 8px;
 }
+
+.section1 {
+	background: #5fb927;
+	padding: 32px 15px 32px 15px;
+}
+.section2 {
+	color: #E01571;
+	border: thick solid #453fc1;
+	background-color: #e0ed0b;
+	padding: 32px 15px 32px 15x;
+}
