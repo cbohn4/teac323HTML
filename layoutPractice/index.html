@@ -6,6 +6,14 @@
 <link href="main.css" rel="stylesheet" type="text/css">
 </head>
 
+	<script>
+		function sleep (time) {
+  			return new Promise((resolve) => setTimeout(resolve, time));
+		}
+		sleep(500).then(() => {
+			location.reload();
+		})
+	</script>
 <body>
 <header>Welcome to the test page!</header>
 	<nav>
@@ -22,5 +30,5 @@
 			<p>This is section 2, it is second.</p>
 		</section>
 </body>
-	<footer></footer>
+	<footer>Im a footer. This is at the bottom sadly.</footer>
 </html>
