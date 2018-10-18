@@ -10,3 +10,16 @@ html 8 {
 header{
 	padding: 32px
 }
+
+nav ul {
+	list-style-type: none;
+	background: #B6CFDD;
+}
+nav ul li a {
+	text-decoration: none;
+	color: #2f322A;
+	text-align: center;
+	display: block;
+	text-transform: uppercase;
+	padding: 8px;
+}
